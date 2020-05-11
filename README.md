@@ -6,8 +6,8 @@
 # iOS（Swift）
 
 ## ARKit
-
-近日サンプル公開
+3.5が公開されました。
+https://developer.apple.com/jp/augmented-reality/arkit/
 
 # Android（Kotlin）
 
@@ -16,6 +16,10 @@
 <a href="https://github.com/Shin-KtoK/KtoK/wiki/Jetpack-Compose-%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB">こちら</a>
 
 # Flutter
+
+Flutter公式
+1.17が公開されました。
+https://flutter.dev/
 
 Flutter Catalog
 https://flutter.dev/docs/development/ui/widgets
