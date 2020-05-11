@@ -7,21 +7,25 @@
 
 ## ARKit
 3.5が公開されました。
+
 https://developer.apple.com/jp/augmented-reality/arkit/
 
 # Android（Kotlin）
 
 ## Jetpack
 
-<a href="https://github.com/Shin-KtoK/KtoK/wiki/Jetpack">こちら</a>
+https://github.com/Shin-KtoK/KtoK/wiki/Jetpack
 
 # Flutter
 
 Flutter公式
+
 1.17が公開されました。
+
 https://flutter.dev/
 
 Flutter Catalog
+
 https://flutter.dev/docs/development/ui/widgets
 
 
