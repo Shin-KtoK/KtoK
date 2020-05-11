@@ -1,10 +1,10 @@
 # Shin KtoK
 
-技術力を高め、技術力の高い方と繋がれるよう情報発信します。
+アプリ開発に役立つ情報を独自路線で発信します。
 
 ## 各言語で様々な技術を公開していきます
 
-フルリモートでフリーランスのエンジニアをしています。iOS、Android、PHP、Flutter、Firebaseなどのスマートフォンアプリ関連の最新技術を公開していきます。
+フリーランスのエンジニアをしています。iOS、Android、Flutterなどのスマートフォンアプリ関連の最新技術を公開していきます。
 
 # iOS（Swift）
 
@@ -14,20 +14,13 @@
 
 # Android（Kotlin）
 
-## Jetpack Compose
+## Jetpack
 
 <a href="https://github.com/Shin-KtoK/KtoK/wiki/Jetpack-Compose-%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB">こちら</a>
 
-## PHP
+# Flutter
 
-近日公開
-
-## Flutter
-
-近日公開
-
-## Firebase
-
-近日公開
+Flutter Catalog
+https://flutter.dev/docs/development/ui/widgets
 
 
