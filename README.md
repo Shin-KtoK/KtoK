@@ -14,9 +14,9 @@
 
 # Android（Kotlin）
 
-## Jetpack Compose サンプル
+## Jetpack Compose
 
-https://github.com/Shin-KtoK/KtoK/wiki/Jetpack-Compose-%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB
+<a href="https://github.com/Shin-KtoK/KtoK/wiki/Jetpack-Compose-%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB">こちら</a>
 
 ## PHP
 
