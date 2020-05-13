@@ -20,7 +20,9 @@ https://developer.apple.com/jp/augmented-reality/arkit/
 
 ## Jetpack
 
-https://github.com/Shin-KtoK/KtoK/wiki/Jetpack
+内部ページ
+
+https://github.com/Shin-KtoK/KtoK/wiki/Android-Jetpack
 
 # Flutter
 
