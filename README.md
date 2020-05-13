@@ -24,7 +24,7 @@ https://developer.apple.com/jp/augmented-reality/arkit/
 
 https://github.com/Shin-KtoK/KtoK/wiki/Android-Jetpack
 
-# Flutter
+# Flutter（Dart）
 
 Flutter公式
 
