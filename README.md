@@ -24,6 +24,10 @@ https://developer.apple.com/jp/augmented-reality/arkit/
 
 https://github.com/Shin-KtoK/KtoK/wiki/Android-Jetpack
 
+## RxKotlin
+
+https://qiita.com/a_yoshio/items/f81be1b28d65fd7cf9ae
+
 # Flutter（Dart）
 
 Flutter公式
