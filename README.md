@@ -26,6 +26,8 @@ https://github.com/Shin-KtoK/KtoK/wiki/Android-Jetpack
 
 ## RxKotlin
 
+Reactive Extentionの略で以下が概念を理解しやすい
+
 https://qiita.com/a_yoshio/items/f81be1b28d65fd7cf9ae
 
 # Flutter（Dart）
